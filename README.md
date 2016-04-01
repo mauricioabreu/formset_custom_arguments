@@ -1,5 +1,4 @@
 # formset_custom_arguments
-An example of how to use formset custom arguments for Django <= 1.8
 
 This repository contains an example of how to pass custom argumentos to formsets using Django <= 1.8
 
